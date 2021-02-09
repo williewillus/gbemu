@@ -12,3 +12,4 @@ Gameboy emulator in Rust
 * Original Nintendo programming manual: http://www.romhacking.net/documents/544/
 * Opcode table: https://izik1.github.io/gbops/index.html
 * CPU Manual: http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf
+* GB Pan Docs: https://gbdev.io/pandocs/
